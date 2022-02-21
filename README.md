@@ -1,8 +1,7 @@
 ˳✧༚ /✿ sunnie23 ✧˖*°࿐
 
-- 👋 Hi, I’m @svndroplet
-- 👀 I’m interested in creating open source projects for human consumption
-- 🌱 I’m currently learning three.js
-- 💞️ enjoy
+👋 Hi, I’m @svndroplet
+🌱 I’m currently learning three.js
+💞️ Built with lots of love, open source
 
 twitter: @svndroplet
